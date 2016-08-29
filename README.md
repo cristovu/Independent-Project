@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
  * Contributors
  * Licenses
 
-###Link: [Project CristoVU](https://cristovu.github.io/Independent-Project/ "Project CristoVU") inline link.
+###Link: [Project CristoVU](https://cristovu.github.io/Independent-Project/) inline link.
 
 ##Description
 
