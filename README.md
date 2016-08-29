@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
  * Contributors
  * Licenses
 
-###Link: [an example](http://example.com/ "Title") inline link.
+###Link: [Project CristoVU](https://github.com/cristovu/Independent-Project "Project CristoVU") inline link.
 
 ##Description
 
@@ -25,7 +25,7 @@ Or a mobile device that has access to wifi or mobile data.
 
 **Setup Instructions**
 
-1. Navigate to our github page (which you are already at because this README file is on the github page. GOOD JOB!).
+1. Navigate to the CristoVU github page (which you are already at because this README file is on the github page. GOOD JOB!).
 2. Click the link above.
 3. Enjoy
 
