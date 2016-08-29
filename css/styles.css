@@ -81,12 +81,12 @@ top: 56px;
 }
 
 body {
-   background-color: black;
+   background-color: 135058;
 }
 
 h2 {
    text-align: center;
-   background-color: #ffccff;
+   background-color: #BFE6BA;
 }
 
 h3 {
@@ -94,7 +94,7 @@ h3 {
 }
 
 p {
-   background-color: ;
+   color: BFE6BA;
 }
 
 span.highlight {
